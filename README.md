@@ -1,6 +1,8 @@
 
 # Python Quiz App
 
+![image](https://github.com/user-attachments/assets/b9a1249a-17f5-44e7-8972-2e1cd04f133a)
+
 This Python application is an interactive quiz tool that allows users to select topics and answer questions. The app tracks previous scores and displays a progress bar for each score, giving visual feedback based on performance.
 
 ## Features
